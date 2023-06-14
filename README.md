@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ln=inkedIn: https://www.linkedin.com/in/felipe-concei%C3%A7%C3%A3o1343/
+LinkedIn: https://www.linkedin.com/in/felipe-concei%C3%A7%C3%A3o1343/
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=FelipeSantos1343&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSantos1343&layout=compact)](https://github.com/FelipeSantos1343/github-readme-stats)
